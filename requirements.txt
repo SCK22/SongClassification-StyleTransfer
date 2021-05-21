@@ -1,5 +1,5 @@
 librosa==0.6.2
-tensorflow==1.10.1
+tensorflow==2.5.0
 tensorflow-gpu==1.10.1
 keras
 pygame==1.9.4
